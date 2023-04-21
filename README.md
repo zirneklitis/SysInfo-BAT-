@@ -10,7 +10,7 @@ This file was created to prove a concept.
 
 Tested with «*Windows 10*».
 
-## Paramaters
+## Parameters
 
 This bat file can be run without or with following parameters:
 
