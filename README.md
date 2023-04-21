@@ -9,3 +9,13 @@ This file was created to prove a concept.
 ## Compatibility
 
 Tested with «*Windows 10*».
+
+## Paramaters
+
+This bat file can be run without or with following parameters:
+
+```
+-h         - Small help message.
+-p file    - The system information will be appended to the text file «file».
+-y         - Don't wait for a user's input at the end.
+  ```
